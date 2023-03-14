@@ -51,3 +51,5 @@ public class TestMojo extends AbstractMojo {
     }
 }
 ```
+
+![Maven build trace](https://raw.githubusercontent.com/cyrille-leclerc/opentelemetry-aware-maven-plugin/main/docs/maven-trace-enriched-by-plugin-span.png)
